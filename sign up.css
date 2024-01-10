@@ -199,10 +199,11 @@ left: 5px;
      }
      #blue-background{
       background-color: #128fdc;
-      width: 300px;
+      width: 350px;
+      height: 100px !important;
       border: none;
       color: white;
-      padding: 12px;
+      padding: 1px;
       font-size: 18px;
       font-weight: 600;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
